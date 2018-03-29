@@ -1,2 +1,2 @@
 # battleship
-A battleship board generator
+A battleship game for bots
